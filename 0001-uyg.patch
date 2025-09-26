@@ -1,0 +1,58 @@
+From 7070da97d92d59ddd488b45ae71ef743cf04de3b Mon Sep 17 00:00:00 2001
+From: sidhaarth241324 <sidhaarth.subramanian@psiog.com>
+Date: Fri, 26 Sep 2025 11:51:49 +0530
+Subject: [PATCH] uyg
+
+---
+ 0001-hi.patch | 25 +++++++++++++++++++++++++
+ pranav.html   |  2 +-
+ 2 files changed, 26 insertions(+), 1 deletion(-)
+ create mode 100644 0001-hi.patch
+
+diff --git a/0001-hi.patch b/0001-hi.patch
+new file mode 100644
+index 0000000..b0d399a
+--- /dev/null
++++ b/0001-hi.patch
+@@ -0,0 +1,25 @@
++From 8379efb5257fb0c07e8e8f21d0450a36293f615b Mon Sep 17 00:00:00 2001
++From: sidhaarth241324 <sidhaarth.subramanian@psiog.com>
++Date: Fri, 26 Sep 2025 11:48:24 +0530
++Subject: [PATCH] hi
++
++---
++ pranav.html | 2 +-
++ 1 file changed, 1 insertion(+), 1 deletion(-)
++
++diff --git a/pranav.html b/pranav.html
++index 7c25ab3..b633851 100644
++--- a/pranav.html
+++++ b/pranav.html
++@@ -6,6 +6,6 @@
++     <title>Document</title>
++ </head>
++ <body>
++-    <h1>bye</h1>
+++    <h1>hi</h1>
++ </body>
++ </html>
++\ No newline at end of file
++-- 
++2.50.1.windows.1
++
+diff --git a/pranav.html b/pranav.html
+index 7c25ab3..b633851 100644
+--- a/pranav.html
++++ b/pranav.html
+@@ -6,6 +6,6 @@
+     <title>Document</title>
+ </head>
+ <body>
+-    <h1>bye</h1>
++    <h1>hi</h1>
+ </body>
+ </html>
+\ No newline at end of file
+-- 
+2.50.1.windows.1
+
