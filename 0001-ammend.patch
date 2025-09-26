@@ -1,0 +1,25 @@
+From b2ade0ef5caa48d91fa2ac1c734f14986c851654 Mon Sep 17 00:00:00 2001
+From: sidhaarth241324 <sidhaarth.subramanian@psiog.com>
+Date: Thu, 25 Sep 2025 23:51:22 +0530
+Subject: [PATCH] ammend
+
+---
+ ind.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/ind.html b/ind.html
+index c97d6af..cb1285f 100644
+--- a/ind.html
++++ b/ind.html
+@@ -9,6 +9,7 @@
+   <p>Add introduction paragraph what</p> 
+   <p>Hiiii broo</p>
+   <p>bye</p>
++  <p>amend</p>
+ </body> 
+ </html> 
+  
+\ No newline at end of file
+-- 
+2.50.1.windows.1
+

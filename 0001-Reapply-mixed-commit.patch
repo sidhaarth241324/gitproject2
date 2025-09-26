@@ -1,0 +1,30 @@
+From 002307dd58288ccefd1845839e3881284d62e8a4 Mon Sep 17 00:00:00 2001
+From: sidhaarth241324 <sidhaarth.subramanian@psiog.com>
+Date: Fri, 26 Sep 2025 10:05:46 +0530
+Subject: [PATCH] Reapply "mixed commit"
+
+This reverts commit 0d52ac6cd7d83011edd0531760ca9d7fbe660b33.
+---
+ newfile.html | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+ create mode 100644 newfile.html
+
+diff --git a/newfile.html b/newfile.html
+new file mode 100644
+index 0000000..7c27aef
+--- /dev/null
++++ b/newfile.html
+@@ -0,0 +1,10 @@
++<!DOCTYPE html>
++<html>
++<head>
++  <title>My New Project</title>
++</head>
++<body>
++  <h1>Welcome to Module 6 Practice</h1>
++  <p>This is a fresh start for Git undo commands.</p>
++</body>
++</html>
+-- 
+2.50.1.windows.1
+
